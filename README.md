@@ -2,12 +2,16 @@
 CRUD
 Это приложение телефонный справочник (PhoneBook), реализовано с использованием такого стека технологий:
 1. Java
-2. Spring Framework ( Data, Boot, Security)
+2. Spring Framework ( Data JPA, Boot 2, Security)
 3. Hibernate
 4. Flyway
 5. Lombok
 6. PostgreSQL
-7. JUnit, Mock
+7. JUnit, Mockito
+8. Bootstrap
+9. HTML 5
+10. CSS3
+11. Thymeleaf
 
 <img width="1512" alt="Снимок экрана 2022-07-23 в 20 54 04" src="https://user-images.githubusercontent.com/68070837/180617366-014513db-fd5b-4b8c-b571-3667e10bac84.png">
 <img width="1512" alt="Снимок экрана 2022-07-23 в 20 54 38" src="https://user-images.githubusercontent.com/68070837/180617372-7ec6cee8-5712-44db-b1a1-5e3151fc5e33.png">
